@@ -62,9 +62,12 @@ const Navbar = () => {
                 }}
 
                 className={styles.actionWrapper}>
-                <div className={styles.phone}>
+                <motion.div
+                    whileHover={{ scale: 1.1 }}
+                    whileTap={{ scale: 0.9 }}
+                    className={styles.phone}>
                     <AiFillPhone />
-                </div>
+                </motion.div>
 
                 <motion.h2
                     whileHover={{ scale: 1.1 }}

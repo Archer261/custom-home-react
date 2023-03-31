@@ -65,6 +65,7 @@
     align-items: center;
 
     max-width: 100%;
+    min-width: 20%;
 
     margin: 0 2rem;
     padding: 0 1rem;
