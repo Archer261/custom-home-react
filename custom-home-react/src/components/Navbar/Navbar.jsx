@@ -66,7 +66,7 @@ const Navbar = () => {
                     whileHover={{ scale: 1.1 }}
                     whileTap={{ scale: 0.9 }}
                     className={styles.phone}>
-                    <AiFillPhone />
+                    <a href="tel:2488897000"><AiFillPhone color="white" /></a>
                 </motion.div>
 
                 <motion.h2
