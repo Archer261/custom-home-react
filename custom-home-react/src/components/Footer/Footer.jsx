@@ -25,7 +25,7 @@ const Footer = (props) => {
             </div>
 
             <div>
-                © 2013, Bailey Custom Homes, Inc.
+                © 2023, Bailey Custom Homes, Inc.
             </div>
         </div>
     )
